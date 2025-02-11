@@ -1,4 +1,4 @@
-# Hi there! 👋
+## Hi there! 👋
 
 ## 🚀 About Me
 With over 15 years of experience in problem-solving, technical solutions, and system support. Passionate about technology, programming, electronics, and security, love diving into complex challenges and finding efficient solutions.
@@ -16,4 +16,4 @@ With over 15 years of experience in problem-solving, technical solutions, and sy
 - **Reverse Engineering**
 
 📫 **Get in Touch:**
-- LinkedIn: [Filipe Polido](https://www.linkedin.com/in/filipe-polido/)
+- [LinkedIn](https://www.linkedin.com/in/filipe-polido/)
