@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there! 👋
 
-<!--
-**yaba/yaba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+With over 15 years of experience in problem-solving, technical solutions, and system support. Passionate about technology, programming, electronics, and security, love diving into complex challenges and finding efficient solutions.
 
-Here are some ideas to get you started:
+## 💼 Professional Experience
+- **IT Infrastructure Analyst**
+- **Microsoft Azure OSS Support Engineer** 
+- **System Administrator/Tech Support** 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🏆 Certifications
+- Microsoft Certified Technology Specialist
+- Watchguard Certified System Professional
+
+## 📌 Hobbies & Projects
+- **Reverse Engineering**
+
+📫 **Get in Touch:**
+- LinkedIn: [Filipe Polido](https://www.linkedin.com/in/filipe-polido/)
